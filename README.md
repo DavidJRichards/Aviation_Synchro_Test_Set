@@ -13,8 +13,11 @@ There are  two plug-in modules, a DC Amplifier the output of which is connected 
 The inputs to the DC amplifier are available on push connectors and 4mm jacks on the fron panel.
 
 ![Overview](./Documents/Overview.jpg)
+![Connections](./Documents/Connections.jpg)
 
 [Photos](./Images/README.md)
+
+[Video](https://youtu.be/za1DJH5afIQ)
 
 ## AC Drive Unit
 
